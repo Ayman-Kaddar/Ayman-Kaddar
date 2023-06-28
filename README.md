@@ -2,8 +2,7 @@
 
 Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplicaciones web interactivas y la implementación de infraestructuras de software. Mi enfoque principal es desarrollar interfaces de usuario atractivas y funcionales utilizando tecnologías como Laravel y React, entre otras. Además, cuento con habilidades en la implementación y administración de plataformas de infraestructura en la nube, utilizando herramientas como Docker. Aunque también tengo conocimientos básicos en Backend, mi enfoque principal se centra en la creación de experiencias de usuario excepcionales y en la optimización de los procesos de desarrollo e implementación.
 
-Mis habilidades
-____________________________________________________________________________________
+<h1>Mis habilidades</h1>
 
 <div align="center" dir="auto">
 <table>
@@ -27,7 +26,7 @@ ________________________________________________________________________________
 </table>
 </div>
 
-Estadísticas de GitHub
+<h1>Estadísticas de GitHub</h1>
 ____________________________________________________________________________________
 <div align="center" dir="auto">
 

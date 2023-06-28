@@ -4,21 +4,6 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
 
 <h1>Mis habilidades</h1>
 
-<div align="center" dir="auto">
-<table>
-  <td>
-    
-  </td>
-<tbody>
-<tr>
-<td>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  
-</td>
-
-</tbody>
-</table>
-</div>
 
 <h1>Estadísticas de GitHub</h1>
 

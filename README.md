@@ -9,8 +9,7 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
 <thead>
 <tr>
 <th><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz</font></font></strong></th>
-<th><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">back-end</font></font></strong></th>
-<th><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DevOps</font></font></strong></th>
+
 </tr>
 </thead>
 <tbody>
@@ -19,9 +18,7 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   
 </td>
-<td><a target="_blank" rel="noopener noreferrer" href="/emagrina/emagrina/blob/main/.img/icons_backend_light.svg#gh-light-mode-only"><img alt="Icon Backend" src="/emagrina/emagrina/raw/main/.img/icons_backend_light.svg#gh-light-mode-only" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="/emagrina/emagrina/blob/main/.img/icons_backend_dark.svg#gh-dark-mode-only"><img alt="Ícono Back-end" src="/emagrina/emagrina/raw/main/.img/icons_backend_dark.svg#gh-dark-mode-only" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="/emagrina/emagrina/blob/main/.img/icons_devops_light.svg#gh-light-mode-only"><img alt="Icon DevOps" src="/emagrina/emagrina/raw/main/.img/icons_devops_light.svg#gh-light-mode-only" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="/emagrina/emagrina/blob/main/.img/icons_devops_dark.svg#gh-dark-mode-only"><img alt="Ícono DevOps" src="/emagrina/emagrina/raw/main/.img/icons_devops_dark.svg#gh-dark-mode-only" style="max-width: 100%;"></a></td>
-</tr>
+
 </tbody>
 </table>
 </div>

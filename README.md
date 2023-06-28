@@ -27,6 +27,11 @@ ________________________________________________________________________________
 </tbody>
 </table>
 </div>
+
+Estadísticas de GitHub
+____________________________________________________________________________________
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=%20Ayman-Kaddar&theme=transparent&locale=es)](https://git.io/streak-stats)
 <!--
 **Ayman-Kaddar/Ayman-Kaddar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

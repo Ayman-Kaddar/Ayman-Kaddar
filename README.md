@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <tbody>
 <tr>
 <td>
-https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   
 </td>
 <td><a target="_blank" rel="noopener noreferrer" href="/emagrina/emagrina/blob/main/.img/icons_backend_light.svg#gh-light-mode-only"><img alt="Icon Backend" src="/emagrina/emagrina/raw/main/.img/icons_backend_light.svg#gh-light-mode-only" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="/emagrina/emagrina/blob/main/.img/icons_backend_dark.svg#gh-dark-mode-only"><img alt="Ícono Back-end" src="/emagrina/emagrina/raw/main/.img/icons_backend_dark.svg#gh-dark-mode-only" style="max-width: 100%;"></a></td>

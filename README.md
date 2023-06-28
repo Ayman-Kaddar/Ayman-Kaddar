@@ -31,7 +31,7 @@ ________________________________________________________________________________
 Estadísticas de GitHub
 ____________________________________________________________________________________
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=%20Ayman-Kaddar&theme=transparent&locale=es)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=%20Ayman-Kaddar&theme=transparent&locale=es)](https://git.io/streak-stats)
 
 ![Ayman-Kaddar GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-kaddar&show_icons=true&theme=radical)
 

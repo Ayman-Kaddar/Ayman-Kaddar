@@ -6,9 +6,9 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
 
 <div align="center" dir="auto">
 <table>
-  <tr>
+  <td>
     
-  </tr>
+  </td>
 <tbody>
 <tr>
 <td>

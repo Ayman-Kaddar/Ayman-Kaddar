@@ -30,13 +30,12 @@ ________________________________________________________________________________
 
 Estadísticas de GitHub
 ____________________________________________________________________________________
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=%20ayman-kaddar&theme=transparent&locale=es)
+<div align="center" dir="auto">
 
 ![Ayman-Kaddar GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-kaddar&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-kaddar&hide_progress=true)
-
+</div>
 
 
 

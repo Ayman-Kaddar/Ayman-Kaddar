@@ -6,12 +6,6 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
 
 <div align="center" dir="auto">
 <table>
-<thead>
-<tr>
-<th><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interfaz</font></font></strong></th>
-
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>

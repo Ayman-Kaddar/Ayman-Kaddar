@@ -29,9 +29,7 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
 <h1>Estadísticas de GitHub</h1>
 
 <div align="center" dir="auto">
-
 ![Ayman-Kaddar GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-kaddar&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-kaddar&hide_progress=true)
 </div>
 

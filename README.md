@@ -25,9 +25,7 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" width="40" height="40">
-   <img src="" width="40" height="40">
-   <img src="" width="40" height="40">
-   <img src="" width="40" height="40">
+ 
    
     
    

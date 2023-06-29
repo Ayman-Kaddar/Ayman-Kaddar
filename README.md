@@ -3,13 +3,16 @@
 Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplicaciones web interactivas y la implementación de infraestructuras de software. Mi enfoque principal es desarrollar interfaces de usuario atractivas y funcionales utilizando tecnologías como Laravel y React, entre otras. Además, cuento con habilidades en la implementación y administración de plataformas de infraestructura en la nube, utilizando herramienta como Docker. Aunque también tengo conocimientos básicos en Backend, mi enfoque principal se centra en la creación de experiencias de usuario excepcionales y en la optimización de los procesos de desarrollo e implementación.
 
 <h1>Mis habilidades</h1>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-
+<div aling="left">
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+    </div>
+</div>
 
 <h1>Estadísticas de GitHub</h1>
 

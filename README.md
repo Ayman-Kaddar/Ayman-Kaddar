@@ -7,10 +7,10 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40">
     </div>
 </div>
 

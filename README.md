@@ -4,7 +4,7 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
 
 <h1>Mis habilidades</h1>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-<img src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">

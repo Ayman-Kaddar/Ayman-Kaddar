@@ -11,6 +11,28 @@ Como desarrollador Frontend y DevOps, tengo experiencia en la creación de aplic
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/tree/master/icons/laravel" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/tree/master/icons/jquery" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" width="40" height="40">
+   <img src="" width="40" height="40">
+   <img src="" width="40" height="40">
+   <img src="" width="40" height="40">
+   
+    
+   
+   
+    
     </div>
 </div>
 
